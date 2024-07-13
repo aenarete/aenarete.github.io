@@ -95,11 +95,10 @@ Let's have another toy example:
 ```julia
 function hfun_m1fill(vname)
   var = vname[1]
-  return pagevar("menu1", var)
+  return pagevar("floods", var)
 end
 ```
 
-Which you can use like this `{{m1fill title}}`: **{{m1fill title}}**. Of course  in this specific case you could also have used `{{fill title menu1}}`: **{{fill title menu1}}**.
 
 Of course these examples are not very useful, in practice you might want to use it to generate actual HTML in a specific way using Julia code.
 For instance you can use it to customise how [tag pages look like](/menu3/#customising_tag_pages).
