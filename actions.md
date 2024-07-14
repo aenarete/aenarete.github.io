@@ -1,8 +1,8 @@
 +++
-title = "Political action"
+title = "Political actions"
 hascode = false
 date = Date(2024, 7, 13)
-rss = "Political action"
+rss = "Political actions"
 
 tags = ["kenya", "climate", "actions"]
 +++
