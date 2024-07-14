@@ -19,6 +19,6 @@ ignore = ["node_modules/"]
 generate_rss = false
 website_title = "Climate Justice and Solidarity Kenya/ NL"
 website_descr = ""
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://aenarete.gitub.io/"
 +++
 
