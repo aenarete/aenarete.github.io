@@ -25,6 +25,7 @@ but this will not fix the problems, because IWF and the World Bank demanded tax 
 
  A real solution needs to include:
 - a debt cancellation, which is justified because the rich countries caused the climate change which is causing at least half of the problems in Kenya
+- cooperation in fighting climate change between Kenya and NL, but also on topics like clean energy, clean cooking, women's rights, sustainable financing, fighting plastic pollution etc. 
 - more effective fight against corruption
 
 
