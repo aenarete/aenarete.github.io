@@ -14,3 +14,6 @@ tags = ["kenya", "climate"]
 
 For weeks there was heavy rain in Kenya, 267 people died due to the severe weather and thousands lost their homes. There are now more than 281 000 displaced people.
 
+Further reading:
+- [Death toll rises as more torrential rain forecast](https://www.theguardian.com/world/2024/apr/27/kenya-flood-death-toll-rises-as-more-torrential-rain-forecast)
+
