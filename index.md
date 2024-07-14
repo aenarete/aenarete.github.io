@@ -1,5 +1,5 @@
 @def title = "Climate Justice and Solidarity Kenya/NL"
-@def tags = ["syntax", "code"]
+@def tags = ["justice", "kenya"]
 
 # Climate Justice and Solidarity Kenya/NL
 
