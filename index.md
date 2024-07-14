@@ -28,6 +28,11 @@ but this will not fix the problems, because IWF and the World Bank demanded tax 
 - cooperation in fighting climate change between Kenya and NL, but also on topics like clean energy, clean cooking, women's rights, sustainable financing, fighting plastic pollution etc. 
 - more effective fight against corruption and for the protection of human rights, both in NL and Kenya
 
+## What to do?
+You can:
+- support one of the political [Actions](/actions/)
+- show your [Solidarity](/solidarity/)
 
+Thank you so much for taking Climate Justice seriously!
 
 
