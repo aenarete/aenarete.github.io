@@ -17,5 +17,16 @@ East Africa in general and Kenya in particular are badly hit by climate change. 
 
 The houses of people have been swept away, both in the countryside and in Nairobi.
 
+The government made things worse by destroying houses near the river that survived the floods.
+
+Furthermore, shortly after the floods, the government announced a new law that would increase a lot of taxes and introduce
+new taxes on basic goods like bread. This triggered a huge wave of protests. The government decided to withdraw the law,
+but this will not fix the problems, because IWF and the World Bank demanded tax increases so that Kenya could repay its debts.
+
+ A real solution needs to include:
+- a debt cancellation, which is justified because the rich countries caused the climate change which is causing at least half of the problems in Kenya
+- more effective fight against corruption
+
+
 
 
