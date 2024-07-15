@@ -1,4 +1,4 @@
-Sitemap: https://aenarete.gitub.io/sitemap.xml
+Sitemap: https://www.climatejusticesolidarity.nl/sitemap.xml
 
 User-agent: *
 Disallow:
