@@ -42,3 +42,7 @@ The Kenyan government, with international support, must prioritize transparency 
 The protests and tragic loss of lives underscore the urgent need for change. The IMF and World Bank must adopt a more compassionate approach that promotes economic freedom and sustainable development for Kenya. We, the youth, will continue to demand immediate debt cancellation and urge the IMF and World Bank to leave Kenya. We believe Kenya can generate sufficient revenue for its development if finances are well managed. We demand economic justice and a fair future for our country.
 
 As a nation, we must stand united for economic justice. We owe it to ourselves and future generations to demand a fair financial system that works for the people, not against them.
+
+## Articles from the international press
+- [The world is scrambling to understand Kenya’s historic protests – this is what too many are missing](https://www.theguardian.com/commentisfree/article/2024/jul/01/kenya-protests-finance-bill-government-debt) The Guardian, 1 July 2024
+- [Why are the US and IMF imposing draconian austerity measures on Kenya?](https://www.theguardian.com/commentisfree/article/2024/jul/10/kenya-finance-bill-protests) The Guardian, 10 July 2024
