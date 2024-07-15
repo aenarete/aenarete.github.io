@@ -10,7 +10,7 @@ tags = ["protests", "kenya"]
 
 # Youth-driven protests in Kenya in summer 2024
 
-## We mourn the loss of Daniel Njoroge, 12 years old, killed by the police on 28th of June 2024 in Nairobi, Kenya
+## We mourn the loss of Daniel Njoroge, 12 years old, killed by the police on the 28th of June 2024 in Nairobi, Kenya
 
 @@img-small ![alt](/assets/daniel.jpeg) @@
 
