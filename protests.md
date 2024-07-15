@@ -1,13 +1,22 @@
 +++
 title = "Protests"
-hascode = true
-rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
+hascode = false
+rss = "Protests in Kenya summer 2024"
 rss_title = "Youth-driven protests in Kenya since June 2024"
 rss_pubdate = Date(2024, 7, 14)
 
 tags = ["protests", "kenya"]
 +++
 
-# Youth-driven protests in Kenya since June 2024
+# Youth-driven protests in Kenya in summer 2024
 
-write about it
+## We mourn the loss of Daniel Njoroge, 8 years old, killed by the police on 28th of June 2024 in Nairobi, Kenya
+
+@@img-small ![alt](/daniel.jpeg) @@
+
+His family lost their house in the floods in May 2024. After that they could
+not afford to send him to school any longer. He was a promising young
+man. He opted to join the protesters as he went to look for his sister in
+the neighborhood, and thats how his life ended.
+
+Please donate for his family [here](https://bunq.me/climatesolidarity), and add the message: "For Daniel".
