@@ -14,7 +14,7 @@ tags = ["protests", "kenya"]
 
 @@img-small ![alt](/assets/daniel.jpeg) @@
 
-His family lost their house in the floods in May 2024. After that they could
+His family lost their house in the floods in May 2024. After that, they could
 not afford to send him to school any longer. He was a promising young
 man. He opted to join the protesters as he went to look for his sister in
 the neighborhood, and that's how his life ended.
