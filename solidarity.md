@@ -12,7 +12,7 @@ Please, support her supporting others! For donations: [https://gofund.me/ca07721
 ## Solidarity with children who cannot go to school
 Heavy rain and a large flood in Kenya in the last weeks displaced more than 281 000 people. Many of them lost everything. Now that the school starts again, many children cannot go to school, because they need a school uniform, books and to pay the school fees.
 
-You can donate [here:](https://gofund.me/508e041b)
+You can donate [here.](https://gofund.me/508e041b)
 
 ## Support the family of Daniel, who was killed during the protests
 
