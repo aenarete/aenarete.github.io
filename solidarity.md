@@ -18,6 +18,7 @@ You can donate [here.](https://gofund.me/508e041b)
 
 ## Support the family of Daniel, who was killed during the protests
 
-You can donate [here.](https://bunq.me/climatesolidarity) Please add the message: "For Daniel".
+You can donate [here.](https://bunq.me/climatesolidarity) Please add the message: "For Daniel".\
+For more info, see [Protests](/protests/).
 
 
