@@ -246,6 +246,12 @@ td {
   padding-left: 0%;
 }
 
+.franklin-content .img-medium img {
+  width: 85%;
+  text-align: center;
+  padding-left: 15%;
+}
+
 .franklin-content .img-small img {
   width: 65%;
   text-align: center;

@@ -3,8 +3,8 @@ title = "Solidarity"
 +++
 
 # Solidarity with climate activists in Kenya
-@@img-small ![alt](/assets/dianah.jpeg) @@
-The grassroots activist Dianah Mugalizi founded the Youth Network "Pro Green Shapers" and is the coordinator for [Debt for Climate](https://www.debtforclimate.org/) . 
+@@img-medium ![alt](/assets/dianah.jpeg) @@
+The grassroots activist Dianah Mugalizi founded the Youth Network [Pro Green Shapers](https://youthcollective.restlessdevelopment.org/organisation/pro-green-shapers/) and is the coordinator for [Debt for Climate](https://www.debtforclimate.org/) . 
 
 ## Solidarity with victims of the floods
 Dianah Sayi Mugalizi, a climate activist from Nairobi is one of the lucky people who have secured a dry place to live. Dianah is hosting 12 refugees, among them women who are breastfeeding and elder women who need urgent medical attention. They have nowhere to call home now since their homes were carried by water. They dearly need your help with food, basic amenities and emergency housing.
