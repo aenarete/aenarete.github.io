@@ -12,7 +12,7 @@ tags = ["protests", "kenya"]
 
 ## We mourn the loss of Daniel Njoroge, 8 years old, killed by the police on 28th of June 2024 in Nairobi, Kenya
 
-@@img-small ![alt](/daniel.jpeg) @@
+@@img-small ![alt](/assets/daniel.jpeg) @@
 
 His family lost their house in the floods in May 2024. After that they could
 not afford to send him to school any longer. He was a promising young
