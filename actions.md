@@ -25,6 +25,10 @@ Debt is the most powerful common denominator behind which all of these struggles
 
 ## Human rights
 
+@@img-small ![alt](/assets/denhaag.jpeg) @@
+
+Kenyans outside the Hague on June 27, 2024, in front of the International Criminal Court (ICC) demanding that they reopen Ruto's case. 
+
 ## Meetings
 We are planning a public online meeting with participants from Kenya and NL at the end of August 2024. Stay tuned!
 
