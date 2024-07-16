@@ -23,7 +23,8 @@ Please donate for his family [here](https://bunq.me/climatesolidarity), and add 
 
 ## Kenya's Future is strangled by the IMF and World Bank
 
-**By Dianah Mugalizi**
+**By Dianah Mugalizi**\
+*Nairobi, 15 July 2024*
 
 As a concerned Kenyan, I feel compelled to expose the severe consequences of the IMF and World Bank's financial interventions in our country. These institutions, often seen as economic saviors, have imposed loan terms that are driving ordinary Kenyans into despair.
 
