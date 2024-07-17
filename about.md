@@ -27,3 +27,5 @@ The finances are controlled by\
 Staff Scientist - Microbiologie\
 Docentambassadeur - Radboud Teaching and Learning Centre\
 The Netherlands
+
+Contact: info AT climatejusticesolidarity.nl

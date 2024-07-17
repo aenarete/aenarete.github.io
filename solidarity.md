@@ -20,7 +20,7 @@ Please consider giving a monthly donation: If 10 people would donate 20 EUR per 
 ## Tree planting
 Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees mean a lower risk of floods in the future.
 
-@@img-small ![alt](/assets/trees.jpeg) @@
+@@img-medium ![alt](/assets/trees.jpeg) @@
 
 ~~~
 <a class="dbox-donation-page-button" href="https://donorbox.org/campaign2024?designation=Support%20tree%20planting&amp;default_interval=o" style="background: rgb(18, 138, 237); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;"><img src="https://donorbox.org/images/white_logo.svg" style="display: none;">Donate</a>
