@@ -43,4 +43,4 @@ More info about Daniel and the protests in Nairobi [here.](/protests/)
 <a class="dbox-donation-page-button" href="https://donorbox.org/campaign2024?designation=Support%20the%20family%20of%20Daniel&amp;default_interval=o" style="background: rgb(18, 138, 237); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;"><img src="https://donorbox.org/images/white_logo.svg" style="display: none;">Donate</a>
 ~~~
 
-
+Thank you so much for taking Climate Justice seriously!
