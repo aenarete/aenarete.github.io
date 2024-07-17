@@ -15,10 +15,10 @@ Please, support her in supporting others! More info: [https://gofund.me/ca077210
 <a class="dbox-donation-page-button" href="https://donorbox.org/campaign2024?designation=Support%20the%20refugees%20with%20shelter%20and%20food&amp;default_interval=o" style="background: rgb(18, 138, 237); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 24px; border-radius: 5px; gap: 8px; width: fit-content; line-height: 24px;"><img src="https://donorbox.org/images/white_logo.svg" style="display: none;">Donate</a><p/>
 ~~~
 
-Please consider giving a monthly donation: If 10 people would donate 20 EUR per month we could already pay the rent for a small flat. The houses need to be rebuilt, but that will take time.
+Please consider giving a monthly donation: If 10 people would donate 20 EUR per month we could already pay the rent for the small flat. The houses need to be rebuilt, but that will take time.
 
 ## Tree planting
-Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees means a lower risk of floods in the future.
+Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees mean a lower risk of floods in the future.
 
 @@img-small ![alt](/assets/trees.jpeg) @@
 
