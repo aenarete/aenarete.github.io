@@ -13,7 +13,7 @@ This concept calls for holding wealthier nations, industries, and individuals ac
 
 ## Current situation in Kenya
 
-East Africa in general and Kenya in particular are badly hit by climate change. There was a drought for many years, costing many lives, and in 2024 floods that were two to four times stronger than usual.
+East Africa in general and Kenya in particular are badly hit by climate change. There was a drought for many years, costing many lives, and in 2024 floods that were about two times stronger than usual.
 
 The houses of people have been swept away, both in the countryside and in Nairobi.
 
