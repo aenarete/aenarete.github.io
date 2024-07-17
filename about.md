@@ -14,7 +14,9 @@ Our goals:
 
 **Dianah Mugalizi** is currently doing her MSc in Climate Change and Sustainability at Kenyatta University, Nairobi, Kenya.
 
-Other members include a retired medical doctor and a researcher in the field of psychology.
+**Ferenc Gyula Öry** is a retired medical doctor who worked for many years in Asia and Africa for "Médecins sans frontières"
+
+Other members include a researcher in the field of psychology.
 
 ##### Bank connection:
 U. Fechner
