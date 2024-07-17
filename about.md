@@ -23,9 +23,9 @@ U. Fechner
 NL46 BUNQ 2122 2356 59
 
 The finances are controlled by\
-**dr. M.J. Smeulders (Marjan)**  
-Staff Scientist - Microbiologie\
-Docentambassadeur - Radboud Teaching and Learning Centre\
+**Dr. M.J. Smeulders (Marjan)**\
+Staff Scientist - Microbiology\
+Teacher Ambassador - Radboud Teaching and Learning Centre\
 The Netherlands
 
 Contact: info AT climatejusticesolidarity.nl
