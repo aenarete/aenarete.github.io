@@ -23,7 +23,7 @@ They are a global grassroots movement initiated and led by the Global South, bui
 Debt is the most powerful common denominator behind which all of these struggles can unite and fight for global social, ecological and climate justice.
 
 ## The situation in Kenya
-In February 2024 Kenya received huge loans from the IMF and World Bank with the sole purpose of being able to pay the interest for older loans. These loans have a high interest rate of 10.5 %. As a result, in 2024 about 70% of the tax income will be used just to pay the interest on mainly Western loans. As a result, the people in Kenya struggle to survive, there have been huge cuts in the fields of education and health, and many people are dying, only to keep the profit of the creditors up and running.
+In February 2024 Kenya received huge loans (1.5 billion US$) from the IMF and World Bank with the sole purpose of being able to pay the interest for older loans. These loans have a high interest rate of 10.5 %. As a result, in 2024 about 70% of the tax income will be used just to pay the interest on mainly Western loans. As a result, the people in Kenya struggle to survive, there have been huge cuts in the fields of education and health, and many people are dying, only to keep the profit of the creditors up and running.
 
 This must be stopped. More information:
 [Debt and Kenya's Economic Crisis](https://debtjustice.org.uk/blog/debt-and-kenyas-economic-crisis)
