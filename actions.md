@@ -21,8 +21,13 @@ A MOVEMENT OF MOVEMENTS
 They are a global grassroots movement initiated and led by the Global South, building power from the bottom-up by uniting workers, Indigenous, feminist, faith, environmental, social and climate justice movements in the Global North and South, to cancel the financial debt of the Global South in order to enable a self-determined, just transition.
 
 Debt is the most powerful common denominator behind which all of these struggles can unite and fight for global social, ecological and climate justice.
-​
 
+## The situation in Kenya
+In Februar 2024 Kenya received huge loans from the IMF and World Bank with the sole purpose of being able to pay the interest for older loans. These loans have a high interest rate of 10.5 %. As a result, in 2024 about 70% of the tax income will be used just to pay the interest on mainly Western loans. As a result, the people in Kenya struggle to survive, there have been huge cuts in the fields of education and health, and many people are dying, only to keep the profit of the creditors up and running.
+
+This must be stopped. More information:
+https://debtjustice.org.uk/blog/debt-and-kenyas-economic-crisis
+​
 ## Human rights
 
 @@img-small ![alt](/assets/denhaag.jpeg) @@
