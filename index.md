@@ -33,7 +33,7 @@ but this will not fix the problems, because IWF and the World Bank demanded tax 
 
 ## What to do?
 You can:
-- inform yourself about the situation in Kenya, for example by reading this website or the provided links
+- inform yourself about the situation in Kenya, for example by reading [this](/floods/) or [this](/protests/) or the provided links
 - support one of the political [Actions](/actions/)
 - show your [Solidarity](/solidarity/)
 
