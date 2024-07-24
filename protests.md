@@ -51,3 +51,4 @@ As a nation, we must stand united for economic justice. We owe it to ourselves a
 ## Articles from the international press
 - [The world is scrambling to understand Kenya’s historic protests – this is what too many are missing](https://www.theguardian.com/commentisfree/article/2024/jul/01/kenya-protests-finance-bill-government-debt) The Guardian, 1 July 2024
 - [Why are the US and IMF imposing draconian austerity measures on Kenya?](https://www.theguardian.com/commentisfree/article/2024/jul/10/kenya-finance-bill-protests) The Guardian, 10 July 2024
+- [Kenyan president Ruto sacks cabinet after weeks of deadly protests](https://www.theguardian.com/world/article/2024/jul/11/kenya-president-william-ruto-sacks-cabinet-after-weeks-of-deadly-protests) The Guardian, 11 July 2024
