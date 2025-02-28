@@ -11,9 +11,9 @@ Dianah Sayi Mugalizi, a climate activist from Nairobi is one of the lucky people
 
 Please, support her in supporting others! 
 
-In 2024 we received about 4500 EUR of donations, which was sufficient for food and housing, but not sufficient to pay the medical costs. Make it possible to provide ongoing support using link below.
+In 2024 we received about 4500 EUR of donations, which was sufficient for food and housing, but not sufficient to pay the medical costs. Make it possible to provide ongoing support using link below and add the message: "For the flood victims."
 
-https://bunq.me/climatesolidarity
+[Climate Solidarity](https://bunq.me/climatesolidarity)
 
 Please consider giving a monthly donation: If 10 people would donate 20 EUR per month we could already pay the rent for the small flat. The houses need to be rebuilt, but that will take time.
 
@@ -22,6 +22,10 @@ Please consider giving a monthly donation: If 10 people would donate 20 EUR per 
 Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees mean a lower risk of floods in the future.
 
 @@img-medium ![alt](/assets/trees.jpeg) @@
+
+If you want to donate for tree planting, please use the link below and add the message "For tree planting."
+
+[Climate Solidarity](https://bunq.me/climatesolidarity)
 
 ## Solidarity with children who cannot go to school
 Heavy rain and a large flood in Kenya in the last weeks displaced more than 281,000 people. Many of them lost everything. Now that school starts again, many children cannot go to school, because they need a school uniform, books and to pay the school fees.
@@ -36,8 +40,8 @@ Heavy rain and a large flood in Kenya in the last weeks displaced more than 281,
 
 In 2024 we received sufficient donations to pay the school fees, but not to pay the other costs, like textbooks, exercise books, colors or crayons, clay soil, pencils, toilet paper(for school), school shoes both sports and black shoes...
 
-For one time donations, please use the link below.
+For one time donations, please use the link below and add the message "For school children."
 
-https://bunq.me/climatesolidarity
+[Climate Solidarity](https://bunq.me/climatesolidarity)
 
 Thank you so much for taking Climate Justice seriously!
