@@ -52,7 +52,7 @@ We are also looking for people who could give a credit/loan for
 - starting a soup kitchen or similar activities to give the refugees a chance to earn their living
 
 If you would be able to provide a credit for these purposes,
-please send an email to info@climatejusticesolidarity.nl
+please send an email to info AT climatejusticesolidarity.nl
 
 Hospitals in Kenya charge up to 16% interest rate per month(!)
 for open bills, which is insane.
