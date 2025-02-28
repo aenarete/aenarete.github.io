@@ -12,7 +12,7 @@ Our goals:
 
 **Uwe Fechner**, one of the organizers is a climate activist and wind energy researcher from The Netherlands and currently working as a postdoc at Delft University of Technology.
 
-**Dianah Mugalizi** is currently doing her MSc in Climate Change and Sustainability at Kenyatta University, Nairobi, Kenya.
+**Dianah Mugalizi** is started her MSc in Climate Change and Sustainability at Kenyatta University, Nairobi, Kenya in 2024.
 
 **Ferenc Gyula Öry (Ferko)** is a retired medical doctor who worked for many years in Asia and Africa for "Médecins sans frontières"
 
