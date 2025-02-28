@@ -11,9 +11,6 @@ tags = ["kenya", "climate"]
 # The floods in Kenya in April/ May 2024
 
 \fig{flood.jpeg}
-~~~
-<link rel="stylesheet" type="text/css" href="https://donorbox.org/animate-popup-donate-button.css"><script type="text/javascript" id="donorbox-donate-button-installer" src="https://donorbox.org/install-donate-button.js" data-href="https://donorbox.org/campaign2024?designation=Support%20the%20refugees%20with%20shelter%20and%20food&amp;default_interval=o" data-style="background: rgb(18, 138, 237); color: rgb(255, 255, 255); text-decoration: none; font-family: Verdana, sans-serif; display: flex; font-size: 16px; padding: 8px 22px 8px 18px; border-radius: 5px 5px 0px 0px; gap: 8px; width: fit-content; line-height: 24px; position: fixed; top: 50%; transform-origin: center center 0px; z-index: 9999; overflow: hidden; right: 20px; transform: translate(50%, -50%) rotate(-90deg);" data-button-cta="Donate"></script>
-~~~
 
 For weeks there was heavy rain in Kenya, 267 people died due to the severe weather and thousands lost their homes. There are now more than 281 000 displaced people.
 
