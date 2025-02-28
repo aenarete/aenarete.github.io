@@ -44,4 +44,17 @@ For one time donations, please use the link below and add the message "For schoo
 
 [Climate Solidarity](https://bunq.me/climatesolidarity)
 
+## We are also looking for loans/ credits
+
+We are also looking for people who could give a credit/loan for
+- paying hospital costs
+- paying study fees
+- starting a soup kitchen or similar activities to give the refugees a chance to earn their living
+
+If you would be able to provide a credit for these purposes,
+please send an email to info@climatejusticesolidarity.nl
+
+Hospitals in Kenya charge up to 16% interest rate per month(!)
+for open bills, which is insane.
+
 Thank you so much for taking Climate Justice seriously!
