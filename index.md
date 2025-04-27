@@ -3,6 +3,8 @@
 
 # Climate Justice and Solidarity Kenya/NL
 
+<!-- \fig{homepage.jpeg} -->
+
 ## Climate Justice
 
 Climate Justice highlights countries’ and communities’ unequal historical responsibility for the climate crisis. Notably, it’s as unfair as asking the designated driver to clean up the entire bar after a wild night out.
