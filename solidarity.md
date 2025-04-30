@@ -10,7 +10,7 @@ She comes from Wangeyo village in Vihiga county, a Western Region of Kenya, wher
 
 She came to Nairobi in 2017 but during the holidays she could go back to the village and work on my green projects. In Nairobi I have volunteered for a number of organizations which include Greenpeace Kenya, Kenya Climate Change Working Group, Sustainable Energy Access Association Kenya, Caritus Kitui, The Adventist Development and Relief Agency Kenya, Good Deeds Day, 350 Org, Power Shift Africa, Mathare Youth Space. Through some of the platforms she has been able to take part in climate strikes, clean ups, tree planting, climate educational campaigns, and faith based climate campaigns.
 
-Across East Africa, she has worked at the Green Africa Foundation and implemented tree planting and climate change awareness campaign projects in partnership with the Australian High Commission Alumni Associations in Kenya, Uganda, Burundi, Rwanda and Democratic Republic of Congo. As the Zero Waste Africa Ambassador I have implemented Zero waste projects in Kenya and Tanzania.
+Across East Africa, she has worked at the Green Africa Foundation and implemented tree planting and climate change awareness campaign projects in partnership with the Australian High Commission Alumni Associations in Kenya, Uganda, Burundi, Rwanda and Democratic Republic of Congo. As the Zero Waste Africa Ambassador she has implemented Zero waste projects in Kenya and Tanzania.
 
 She also worked on debt cancellation and Waste Management campaigns across Africa.
 
