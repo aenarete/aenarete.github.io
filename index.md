@@ -3,7 +3,7 @@
 
 # Climate Justice and Solidarity Kenya/NL
 
-<!-- \fig{homepage.jpeg} -->
+\fig{homepage.jpeg}
 
 ## Climate Justice
 
