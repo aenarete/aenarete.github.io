@@ -6,17 +6,27 @@ title = "Solidarity"
 @@img-medium ![alt](/assets/dianah.jpeg) @@
 The grassroots activist Dianah Mugalizi founded the Youth Network [Pro Green Shapers](https://progreenshapers.org/dianah-mugalizi/). 
 
+She comes from Wangeyo village in Vihiga county, a Western Region of Kenya, where she founded the community based organization called Pro Green Shapers. In her village she started an agribusiness training for youths and women. Further more she initiated clean cooking and tree planting projects in one of the local schools, combined with environmental education.
+
+She came to Nairobi in 2017 but during the holidays she could go back to the village and work on my green projects. In Nairobi I have volunteered for a number of organizations which include Greenpeace Kenya, Kenya Climate Change Working Group, Sustainable Energy Access Association Kenya, Caritus Kitui, The Adventist Development and Relief Agency Kenya, Good Deeds Day, 350 Org, Power Shift Africa, Mathare Youth Space. Through some of the platforms she has been able to take part in climate strikes, clean ups, tree planting, climate educational campaigns, and faith based climate campaigns.
+
+Across East Africa, she has worked at the Green Africa Foundation and implemented tree planting and climate change awareness campaign projects in partnership with the Australian High Commission Alumni Associations in Kenya, Uganda, Burundi, Rwanda and Democratic Republic of Congo. As the Zero Waste Africa Ambassador I have implemented Zero waste projects in Kenya and Tanzania.
+
+She also worked on debt cancellation and Waste Management campaigns across Africa.
+
 ## Solidarity with victims of the floods
-Dianah Sayi Mugalizi, a climate activist from Nairobi is one of the lucky people who have secured a dry place to live. Dianah is hosting 12 refugees, among them women who are breastfeeding and elder men who need urgent medical attention. They have nowhere to call home now since their homes were carried by water. They dearly need your help with food, basic amenities and emergency housing.
+In April 2024 strong rain and large floods hit large areas of Kenya. More than 281,000 people lost their houses and were
+looking for shelter. Dianah converted her flat into a shelter for 13 people who lost their houses. We were able to 
+support this group of people for one year, from April 2024 to March 2024 with shelter, food and health care, and two
+of the children could go to school.
 
-Please, support her in supporting others! 
-
-In 2024 we received about 4500 EUR of donations, which was sufficient for food and housing, but not sufficient to pay the medical costs. Make it possible to provide ongoing support using link below and add the message: "For the flood victims."
+Due to a drop of donations we are not longer able to fully support these refugees, but we would be very happy 
+if you could help us to provide some ongoing support, for example for water and electricity and for the support of
+one girl who lost her parents and is now an orphan.
 
 [Climate Solidarity](https://bunq.me/climatesolidarity)
 
-Please consider giving a monthly donation: If 10 people would donate 20 EUR per month we could already pay the rent for the small flat. The houses need to be rebuilt, but that will take time.
-
+Please consider giving a monthly donation: For 40 EUR per month we can pay water and electricity for a week.
 
 ## Tree planting
 Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees mean a lower risk of floods in the future.
@@ -28,17 +38,7 @@ If you want to donate for tree planting, please use the link below and add the m
 [Climate Solidarity](https://bunq.me/climatesolidarity)
 
 ## Solidarity with children who cannot go to school
-Heavy rain and a large flood in Kenya in the last weeks displaced more than 281,000 people. Many of them lost everything. Now that school starts again, many children cannot go to school, because they need a school uniform, books and to pay the school fees.
-
-- Family A, they have one child, Michelle - 5 years grade 2. She needs a school uniform, books and school fees to go to school at a cost of 400 EUR.
-
-- Family B has one girl, Rittah - 10 years grade 6. Rittah needs a school uniforms, books and school fees for 400 EUR.
-
-- Family C has one girl, Angela - 8 years in grade 4. She needs support with books, a uniform and school fees for 400 EUR
-
-- Family D has one girl, Rabecca - grade 3, she needs support with school fees, books, a school uniform and transport to school costing 280 EUR. 
-
-In 2024 we received sufficient donations to pay the school fees, but not to pay the other costs, like textbooks, exercise books, colors or crayons, clay soil, pencils, toilet paper(for school), school shoes both sports and black shoes...
+Heavy rain and a large flood in Kenya in the last weeks displaced more than 281,000 people. Many of them lost everything. Many children cannot go to school, because they need to pay for books and for the school fees.
 
 For one time donations, please use the link below and add the message "For school children."
 
