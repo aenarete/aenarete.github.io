@@ -26,7 +26,7 @@ one girl who lost her parents and is now an orphan.
 
 [Climate Solidarity](https://bunq.me/climatesolidarity)
 
-Please consider giving a monthly donation: For 40 EUR per month we can pay water and electricity for a week.
+Please consider giving a monthly donation: A 40 euro donation provides water and electricity for one week.
 
 ## Tree planting
 Dianah helped to organize a tree planting session along the Mathare River. This was a great opportunity for the group to get outside and do something encouraging: More trees mean a lower risk of floods in the future.
