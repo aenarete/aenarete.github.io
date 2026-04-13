@@ -22,10 +22,5 @@ Other members include a biologist and a researcher in the field of psychology.
 U. Fechner
 NL46 BUNQ 2122 2356 59
 
-The finances are controlled by\
-**Dr. M.J. Smeulders (Marjan)**\
-Staff Scientist - Microbiology\
-Teacher Ambassador - Radboud Teaching and Learning Centre\
-The Netherlands
 
 Contact: info AT climatejusticesolidarity.nl
